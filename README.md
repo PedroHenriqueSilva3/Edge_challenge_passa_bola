@@ -1,3 +1,7 @@
+Video do youtube: https://youtu.be/mYxGTfYziNE
+Link do projeto no wokwi: https://wokwi.com/projects/442307023172067329
+
+
 Monitoramento de Atleta com IoT – ESP32 + MPU6050 + Sensor de Pulso/Oxigenação
 👥 Integrantes
 
